@@ -11,7 +11,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "martndemus/ember-font-awesome",
+  "repository": "cspanring/ember-font-awesome",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
