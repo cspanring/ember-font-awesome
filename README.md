@@ -116,7 +116,7 @@ map these options to their `{{fa-icon}}` counterparts.
 ## :sos: Looking for Help?
 
 - :warning: **Bug reports**: If your bug hasn't been reported yet, please [**open an issue**][new-issue]. Try to pick a short but descriptive title. Make sure you're using the latest version of *ember-font-awesome*. In the issue body, try to provide exact steps for reproduction, ideally with example code. If you can't, please include any and all error messages, as many details as possible and exact information on which Ember.js / ember-cli version and browser / OS you're using.
-- ![Slack Icon](https://i.imgur.com/Bjckhpc.png) **Slack**: We're happy to help you in our [**#e-font-awesome**][slack] Slack channel! You can [create an Ember Community Slack account][slackin] here for free.
+- **Discord**: We're happy to help you in the [**#e-fontawesome** channel on discord](https://discord.gg/zT3asNS)
 
 
 #### Larger Icons
@@ -440,6 +440,5 @@ var app = new EmberApp({
 
 [Public Domain](UNLICENSE)
 
-[slack]: https://embercommunity.slack.com/messages/C6UMSLS74/
-[slackin]: https://ember-community-slackin.herokuapp.com/
+[discord](https://discord.gg/zT3asNS)
 [new-issue]: https://github.com/martndemus/ember-font-awesome/issues/new
